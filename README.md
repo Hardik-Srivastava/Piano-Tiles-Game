@@ -16,13 +16,13 @@ Piano Tiles is an engaging and addictive game where players tap on black tiles t
 
 Here are some screenshots of the game:
 
-![Screenshot 1](screenshots/first.jpeg)
+![Screenshot 1](screenshots/first.png)
 *Caption: Start Screen*
 
-![Screenshot 2](screenshots/second.jpeg)
+![Screenshot 2](screenshots/second.png)
 *Caption: Gameplay Screen*
 
-![Screenshot 3](screenshots/third.jpeg)
+![Screenshot 3](screenshots/third.png)
 *Caption: Final Screen*
 
 ## Installation
